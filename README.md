@@ -53,6 +53,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2025
 - ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery (**TPAMI** 2025) [[paper]](https://arxiv.org/abs/2504.03755) [[code]](https://github.com/mashijie1028/ProtoGCD)
+- From Comparison to Composition: Towards Understanding Machine Cognition of Unseen Categories (**NeurIPS Workshop** 2025) [[paper]](https://openreview.net/pdf?id=eF2lcYSF0V)
 
 ## 2024
 - Novel class discovery meets foundation models for 3D semantic segmentation (**IJCV** 2024) [[paper]](https://doi.org/10.1007/s11263-024-02180-x) [[code]](https://github.com/LuigiRiz/SNOPS)

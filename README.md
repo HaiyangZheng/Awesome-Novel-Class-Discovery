@@ -53,6 +53,25 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 
 ## 2025
 - ProtoGCD: Unified and Unbiased Prototype Learning for Generalized Category Discovery (**TPAMI** 2025) [[paper]](https://arxiv.org/abs/2504.03755) [[code]](https://github.com/mashijie1028/ProtoGCD)
+- DebGCD: Debiased Learning with Distribution Guidance for Generalized Category Discovery (**ICLR** 2025) [[paper]](https://arxiv.org/abs/2504.04804) [[code]](https://github.com/Visual-AI/DebGCD)
+- HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts (**ICLR** 2025) [[paper]](https://arxiv.org/abs/2408.04591) [[code]](https://github.com/Visual-AI/HiLo)
+- Hyperbolic Category Discovery (**CVPR** 2025) [[paper]](https://arxiv.org/abs/2504.06120) [[code]](https://visual-ai.github.io/hypcd/)
+- GET: Unlocking the Multi-Modal Potential of CLIP for Generalized Category Discovery (**CVPR** 2025) [[paper]](https://arxiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
+- Adaptive Part Learning for Fine-Grained Generalized Category Discovery: A Plug-and-Play Enhancement (**CVPR** 2025) [[paper]](https://arxiv.org/pdf/2507.06928)
+- Less Attention is More: Prompt Transformer for Generalized Category Discovery (**CVPR** 2025) [[paper]](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_Less_Attention_is_More_Prompt_Transformer_for_Generalized_Category_Discovery_CVPR_2025_paper.pdf) [[code]](https://github.com/wendy26zhang/AptGCD)
+- MOS: Modeling Object-Scene Associations in Generalized Category Discovery (**CVPR** 2025) [[paper]](https://arxiv.org/abs/2503.12035) [[code]](https://github.com/JethroPeng/MOS?tab=readme-ov-file)
+- When Domain Generalization meets Generalized Category Discovery: An Adaptive Task-Arithmetic Driven Approach (**CVPR** 2025) [[paper]](https://arxiv.org/abs/2503.14897) [[code]](https://github.com/Shubh-Nil/D_GCD)
+- Continual Generalized Category Discovery: Learning and Forgetting from a Bayesian Perspective (**ICML** 2025) [[paper]](https://icml.cc/virtual/2025/poster/45679) [[code]](https://github.com/daihao42/VB-CGCD)
+- Towards Understanding Parametric Generalized Category Discovery on Graphs (**ICML** 2025) [[paper]](https://icml.cc/virtual/2025/poster/45645) [[code]](https://github.com/bwdeng20/GraphGCD)
+- Generalized Category Discovery via Reciprocal Learning and Class-Wise Distribution Regularization (**ICML** 2025) [[paper]](https://icml.cc/virtual/2025/poster/43993) [[code]](https://github.com/APORduo/RLCD)
+- AllGCD: Leveraging All Unlabeled Data for Generalized Category Discovery (**ICCV** 2025) [[paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Cao_AllGCD_Leveraging_All_Unlabeled_Data_for_Generalized_Category_Discovery_ICCV_2025_paper.pdf)
+- Dissecting Generalized Category Discovery: Multiplex Consensus under Self-Deconstruction (**ICCV** 2025) [[paper]](https://arxiv.org/abs/2508.10731) [[code]](https://github.com/lytang63/ConGCD)
+- A Hidden Stumbling Block in Generalized Category Discovery: Distracted Attention (**ICCV** 2025) [[paper]](https://arxiv.org/abs/2507.14315) [[code]](https://github.com/Afleve/AFGCD)
+- SEAL: Semantic-Aware Hierarchical Learning for Generalized Category Discovery (**NeurIPS** 2025) [[paper]](https://arxiv.org/abs/2510.18740) [[code]](https://github.com/Visual-AI/seal)
+- Consistent Supervised-Unsupervised Alignment for Generalized Category Discovery (**NeurIPS** 2025) [[paper]](https://arxiv.org/abs/2507.04725) [[code]]()
+- Generalized Category Discovery under Domain Shift: A Frequency Domain Perspective (**NeurIPS** 2025) [[paper]](https://arxiv.org/pdf/2511.00573) [[code]]()
+- HIDISC: A Hyperbolic Framework for Domain Generalization with Generalized Category Discovery (**NeurIPS** 2025) [[paper]](https://arxiv.org/abs/2510.17188) [[code]](https://github.com/dgibn/HIDISC)
+- FedLPA: Local Prior Alignment for Heterogeneous Federated Generalized Category Discovery (**NeurIPS** 2025) [[paper]](https://openreview.net/forum?id=QzOBE4mi2N)
 - From Comparison to Composition: Towards Understanding Machine Cognition of Unseen Categories (**NeurIPS Workshop** 2025) [[paper]](https://openreview.net/pdf?id=eF2lcYSF0V)
 
 ## 2024

@@ -27,11 +27,9 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 - Composing Novel Classes: A Concept-Driven Approach to Generalized Category Discovery [[paper]](https://arxiv.org/abs/2410.13285)[[code]](https://github.com/algpy/conceptGCD)
 - HiLo: A Learning Framework for Generalized Category Discovery Robust to Domain Shifts [[paper]](https://arxiv.org/abs/2408.04591)
 - Continual Novel Class Discovery via Feature Enhancement and Adaptation [[paper]](https://arxiv.org/abs/2405.06389)
-- Exclusive Style Removal for Cross Domain Novel Class Discovery [[paper]](https://arxiv.org/abs/2406.18140)
 - Revisiting Mutual Information Maximization for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2405.20711)
 - Beyond Known Clusters: Probe New Prototypes for Efficient Generalized Class Discovery [[paper]](https://arxiv.org/abs/2404.08995) [[code]](https://github.com/xjtuYW/PNP)
 - GET: Unlocking the Multi-modal Potential of CLIP for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2403.09974) [[code]](https://github.com/enguangW/GET)
-- Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2401.13325)
 - YOLOOC: YOLO-based Open-Class Incremental Object Detection with Novel Class Discovery [[paper]](https://arxiv.org/abs/2404.00257)
 - Beyond the Known: Novel Class Discovery for Open-world Graph Learning [[paper]](https://arxiv.org/abs/2403.19907)
 - PANDAS: Prototype-based Novel Class Discovery and Detection [[paper]](https://arxiv.org/abs/2402.17420) [[code]](https://github.com/naver/pandas)
@@ -90,6 +88,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 - GLEAN: Active Generalized Category Discovery with Diverse LLM Feedback (**EACL** 2026) [[paper]](https://aclanthology.org/2026.eacl-long.358/) [[code]](https://github.com/amazon-science/Glean)
 - Happy++: Towards Stable and Unified Continual Generalized Category Discovery (**TPAMI** 2026) [[paper]](https://doi.org/10.1109/tpami.2026.3721625)
 - Generalized Fine-Grained Category Discovery with Multi-Granularity Conceptual Experts (**IJCV** 2026) [[paper]](https://doi.org/10.1007/s11263-026-02970-5) [[code]](https://github.com/HaiyangZheng/MGCE)
+- Memory Consistency Guided Divide-and-Conquer Learning for Generalized Category Discovery (**IJCV** 2026) [[paper]](https://doi.org/10.1007/s11263-026-02745-y)
 - Learning Part Knowledge to Facilitate Category Understanding for Fine-Grained Generalized Category Discovery (**TMM** 2026) [[paper]](https://doi.org/10.1109/tmm.2026.3668655)
 - Sharpness-Aware Dynamic Anchor Selection for Generalized Category Discovery (**TMM** 2026) [[paper]](https://doi.org/10.1109/tmm.2026.3654349)
 - Unsupervised Incremental Class Discovery Via Exploring Self-Distillation Reciprocity Knowledge (**TMM** 2026) [[paper]](https://doi.org/10.1109/tmm.2026.3676155)
@@ -133,6 +132,7 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 - Hyperbolic Hierarchical Representation Learning for Generalized Category Discovery (**TNNLS** 2025) [[paper]](https://ieeexplore.ieee.org/document/11134045) [[code]](https://github.com/DuannYu/HypGCD)
 - ReCL: A Plug-and-Play Module for Enhancing Generalized Category Discovery Using Transport-Based Method (**TNNLS** 2025) [[paper]](https://ieeexplore.ieee.org/document/11135448)
 - Dual-Space Contrastive Learning for Open-World Semi-Supervised Classification (**TNNLS** 2025) [[paper]](https://ieeexplore.ieee.org/abstract/document/10934981) [[code]](https://github.com/ascetic-monk/DSCL)
+- Exclusive Style Removal for Cross Domain Novel Class Discovery (**Neural Networks** 2025) [[paper]](https://doi.org/10.1016/j.neunet.2025.107902)
 
 ## 2024
 - Novel class discovery meets foundation models for 3D semantic segmentation (**IJCV** 2024) [[paper]](https://doi.org/10.1007/s11263-024-02180-x) [[code]](https://github.com/LuigiRiz/SNOPS)

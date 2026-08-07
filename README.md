@@ -104,6 +104,8 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 - Guided Cluster Aggregation: A Hierarchical Approach to Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Otholt_Guided_Cluster_Aggregation_A_Hierarchical_Approach_to_Generalized_Category_Discovery_WACV_2024_paper.pdf) [[code]](https://github.com/J-L-O/guided-cluster-aggregation)
 - AMEND: Adaptive Margin and Expanded Neighborhood for Efficient Generalized Category Discovery (**WACV** 2024) [[paper]](https://openaccess.thecvf.com/content/WACV2024/papers/Banerjee_AMEND_Adaptive_Margin_and_Expanded_Neighborhood_for_Efficient_Generalized_Category_WACV_2024_paper.pdf) [[code]](https://github.com/missBanerjee/AMEND)
 - Prediction consistency regularization for Generalized Category Discovery (**Information Fusion** 2024) [[paper]](https://github.com/DuannYu/PCR/blob/main/assets/PCR.pdf) [[code]](https://github.com/DuannYu/PCR)
+- Solving the Catastrophic Forgetting Problem in Generalized Category Discovery (**CVPR** 2024) [[paper]](https://openaccess.thecvf.com/content/CVPR2024/html/Cao_Solving_the_Catastrophic_Forgetting_Problem_in_Generalized_Category_Discovery_CVPR_2024_paper.html) [[code]](https://github.com/Cliffia123/LegoGCD)
+- Flipped Classroom: Aligning Teacher Attention with Student in Generalized Category Discovery (**NeurIPS** 2024) [[paper]](https://openreview.net/forum?id=C4NbtYnyQg)
 
 
 ## 2023

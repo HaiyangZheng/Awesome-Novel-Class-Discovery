@@ -49,6 +49,18 @@ More details are in this [survey](https://arxiv.org/abs/2403.01759).
 - Large-scale Pre-trained Models are Surprisingly Strong in Incremental Novel Class Discovery [[paper]](https://arxiv.org/abs/2303.15975) [[code]](https://github.com/OatmealLiu/MSc-iNCD)
 - Automatically Discovering Novel Visual Categories with Self-supervised Prototype Learning [[paper]](https://arxiv.org/abs/2208.00979)
 - CiPR: An Efficient Framework with Cross-instance Positive Relations for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2304.06928)
+- ClearGCD: Mitigating Shortcut Learning For Robust Generalized Category Discovery [[paper]](https://arxiv.org/abs/2511.22892)
+- VLM-NCD: Novel Class Discovery with Vision-Based Large Language Models [[paper]](https://arxiv.org/abs/2512.10262)
+- InfoSculpt: Sculpting the Latent Space for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2601.10098)
+- SIEFormer: Spectral-Interpretable and -Enhanced Transformer for Generalized Category Discovery [[paper]](https://arxiv.org/abs/2602.13067)
+- FOCUS: Bridging Fine-Grained Recognition and Open-World Discovery across Domains [[paper]](https://arxiv.org/abs/2603.14240)
+- PACO: Proxy-Task Alignment and Online Calibration for On-the-Fly Category Discovery [[paper]](https://arxiv.org/abs/2604.11484)
+- Unlocking Optical Prior: Spectrum-Guided Knowledge Transfer for SAR Generalized Category Discovery [[paper]](https://arxiv.org/abs/2604.22174)
+- Generalized Category Discovery under Domain Shifts: From Vision to Vision-Language Models [[paper]](https://arxiv.org/abs/2605.00906)
+- Reference-based Category Discovery: Unsupervised Object Detection with Category Awareness [[paper]](https://arxiv.org/abs/2605.04606)
+- Sparsity Hurts: Simple Linear Adapter Can Boost Generalized Category Discovery [[paper]](https://arxiv.org/abs/2605.08183)
+- Synergistic Dual-Branch Adaptation for Multi-modal Generalized Category Discovery [[paper]](https://arxiv.org/abs/2606.21446)
+- Explainable Novel Category Discovery in Semantic Concept Space [[paper]](https://arxiv.org/abs/2607.04548)
 
 ## 2026
 
